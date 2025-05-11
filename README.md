@@ -24,7 +24,7 @@
 
 ## 📫 Connect
 
-- 💼 [LinkedIn][https://www.linkedin.com/in/rakshyapandey/)
+- 💼 [LinkedIn][https://www.linkedin.com/in/rakshya-pandey/)
 - 💻 [GitHub](https://github.com/rakshyaaa)
 - ✉️ rakshya.workspace@gmail.com
 
