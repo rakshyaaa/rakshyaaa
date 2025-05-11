@@ -26,5 +26,5 @@
 
 - 💼 [LinkedIn][https://www.linkedin.com/in/rakshyapandey/)
 - 💻 [GitHub](https://github.com/rakshyaaa)
-- ✉️ rakshya.workspace@gmail.com (replace with actual email)
+- ✉️ rakshya.workspace@gmail.com
 
