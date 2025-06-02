@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, SQL, Java
+- **Languages**: Python, SQL, Java, AngularJS
 - **Analytics & BI**: Pandas, NumPy, Tableau, Power BI, AtScale, SSRS
 - **Cloud & Tools**: AWS (Lambda, S3, Redshift, Glue, ec2), Docker, Git, Bitbucket, GitHub
 - **Web & App**: Django, Angular, Spring Boot
