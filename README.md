@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rakshya Pandey 👋</h1>
-<p align="center">👩‍💻 Data & Analytics Engineer | Python | SQL | Cloud | AI/ML Enthusiast</p>
+<p align="center">👩‍💻 Data & Analytics Engineer | Python | SQL | Cloud
 
 ---
 
@@ -16,7 +16,7 @@
 
 - **Languages**: Python, SQL, Java, 
 - **Analytics & BI**: Pandas, NumPy, Tableau, Power BI, AtScale, SSRS
-- **Cloud & Tools**: AWS (Lambda, S3, Redshift, Glue, ec2), Docker, Git, Bitbucket, GitHub
+- **Cloud & Tools**: AWS (CodeDeploy, Cloudfront,Lambda, S3, Redshift, Glue, ec2), Docker, Git, Bitbucket, GitHub
 - **Web & App**: Django, AngularJS, Spring Boot
 - **Machine Learning**: Scikit-learn, FastAI, TensorFlow
 
